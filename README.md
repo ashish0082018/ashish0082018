@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Verma</h1>
 <h3 align="center">A passionate full stack developer from Indian Institute of Information Technology Ranchi</h3>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Three Js**
 
 - 📫 How to reach me **av0082018@gmail.com**
 
