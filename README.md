@@ -26,7 +26,7 @@
 I'm a final year Computer Science student at the **Indian Institute of Information Technology, Ranchi**. I love building things for the web, from sleek front-end interfaces to robust back-end systems.
 
 -   🚀 I'm currently exploring the world of 3D web graphics with **Three.js**.
--   💡 I enjoy solving complex problems on platforms like LeetCode.
+-   💡 I enjoy solving problems on platforms like LeetCode.
 -   💬 Ask me about **MERN stack, Next.js, or System Design**.
 -   📫 You can reach me at **av0082018@gmail.com**.
 
