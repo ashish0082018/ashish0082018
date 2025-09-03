@@ -4,7 +4,7 @@
     Hi there, I'm Ashish Verma 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A passionate Full-Stack Developer crafting digital experiences from India. 🇮🇳</h3>
+  <h3>A passionate Full-Stack & AI Developer crafting intelligent digital experiences from India. 🇮🇳</h3>
 </div>
 
 <div align="center">
@@ -23,11 +23,12 @@
 
 ### 👨‍💻 **About Me**
 
-I'm a final year Computer Science student at the **Indian Institute of Information Technology, Ranchi**. I love building things for the web, from sleek front-end interfaces to robust back-end systems.
+I'm a final year Computer Science student at the **Indian Institute of Information Technology, Ranchi**. I specialize in building full-stack applications with a strong focus on **Generative AI and RAG-based systems**.
 
--   🚀 I'm currently exploring the world of 3D web graphics with **Three.js**.
--   💡 I enjoy solving problems on platforms like LeetCode.
--   💬 Ask me about **MERN stack, Next.js, or System Design**.
+-   🚀 I'm currently building AI-powered SaaS solutions with **LangChain, OpenAI, and Vector Databases**
+-   🤖 Passionate about creating intelligent **AI agents and RAG pipelines** for enterprise applications
+-   💡 Strong expertise in **MERN stack, Next.js, and AI/ML integration**
+-   💬 Ask me about **Generative AI, RAG systems, MERN stack, or SaaS architecture**
 -   📫 You can reach me at **av0082018@gmail.com**.
 
 ---
@@ -36,6 +37,17 @@ I'm a final year Computer Science student at the **Indian Institute of Informati
 
 Here are some of the languages, frameworks, and tools I'm proficient in:
 
+#### **AI/ML & Cloud Technologies**
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://js.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/langchain-ai/langchainjs/blob/main/docs/static/img/langchain-logo.png?raw=true" alt="langchain" width="40" height="40"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/openai-icon-2048x2048-7wadswpn.png" alt="openai" width="40" height="40"/> </a>
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/2d5q1td6cyxq/5mRjyyyU0zNn0I0VYV2tG3/7f0735d8d5b73a4b40a7a3e5e3e3b3b5/pinecone-logo.svg" alt="pinecone" width="40" height="40"/> </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://supabase.com/favicon.ico" alt="supabase" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
+
+#### **Full-Stack Development**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -47,11 +59,30 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </p>
+
+---
+
+### 🚀 **Featured Projects**
+
+#### 🤖 [BotCraft - AI Chatbot SaaS Platform](https://github.com/ashish0082018/BotCraft)
+**Generative AI • RAG • LangChain • Pinecone • OpenAI**
+- Built end-to-end SaaS platform for custom AI chatbots with PDF/URL training
+- Implemented RAG pipeline with vector embeddings and real-time query retrieval
+- Integrated SDK/API deployment with UI customization and analytics
+
+#### 🎯 [CareerStack - Dynamic Portfolio Builder](https://github.com/ashish0082018/careerStack)
+**Next.js • TypeScript • Supabase • AI Integration**
+- Full-stack portfolio builder with AI-powered resume optimization
+- GitHub API integration for real-time developer metrics
+- NextAuth authentication with multiple providers
+
+#### 💻 [CodeCollab - Real-time Coding Platform](https://github.com/ashish0082018/CodeCollab_)
+**Socket.IO • React • Node.js • AI Assistant**
+- Collaborative code editor with integrated AI assistance
+- Real-time synchronization using Socket.IO
+- Multi-user rooms with language support
 
 ---
 
